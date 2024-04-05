@@ -9,4 +9,5 @@ This is a weather-app with the following features:
 ## Configuration
 
 npm install
+
 To start: npm start
