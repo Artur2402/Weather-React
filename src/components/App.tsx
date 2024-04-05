@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import * as React from "react";
 
 import "../styles/App.css";
 
@@ -8,10 +8,10 @@ import Main from "./Main";
 function App() {
 
     return (
-        <Fragment>
+        <>
             <Header/>
             <Main/>
-        </Fragment>
+        </>
         );
 }
 

@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 
 import "../styles/Header.css";
 
@@ -9,7 +9,6 @@ function Header() {
             <h3>Weather-React</h3>
         </header>
     )
-
 }
 
 export default Header;
